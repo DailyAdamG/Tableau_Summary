@@ -1,0 +1,14 @@
+The data being analyzed is from the month of January in 2018, 2019 and 2020. I decided to look at the most popular bike stations in terms of use.
+
+The most popular station for the three observed years was Pershing Square North by almost 10,000 uses.
+I also noticed that Pershing Square South had over 10,000 trips as well.
+This shows that Pershing Square has some of the most bike traffic in the city and that more stations may need to be added.
+
+I also analyzed the times that each ride started and ended and found large spikes around 8AM and 5PM and that weekend usage is lower compared to weekday usage.
+This most likely means that people are using these bikes to commute to and from work.
+If we want to encourage more people to use our bikes, we should focus on adding stations near businesses and high residential areas.
+
+I also added a section that shows when the last time a bike was used. This can be used to show bikes that may be in need of repair.
+This information could also be used to identify any misplaced or stolen bikes as well.
+The data shows that Bikeids 19810, 19814, 28222, 28637, and 31108 have not been used since the first day of January.
+It is likely that these bikes are missing or in need of repair.
